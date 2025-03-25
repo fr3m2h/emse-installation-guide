@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction :: Guide d&#39;installation</title>
+    <link>http://localhost:1313/fr/index.html</link>
+    <description>Bienvenue dans le guide d’installation officiel proposé par les ROOTs de l’École des Mines de Saint-Étienne (EMSE).&#xA;Durant votre cursus à l’EMSE, vous serez amenés à utiliser différents logiciels pour vos cours et projets. Ce site vous guidera pas à pas dans le processus d’installation des logiciels requis sur votre ordinateur personnel, que vous soyez sous Windows, macOS ou Linux.&#xA;Séances d’aide à l’installation Deux séances d’aide à l’installation sont organisées par les ROOTs en collaboration avec la DSI afin de vous accompagner en cas de difficultés :</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration minimale</title>
+      <link>http://localhost:1313/fr/config_min/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/config_min/index.html</guid>
+      <description>Pour utiliser efficacement l’ensemble des logiciels nécessaires durant votre cursus à l’École des Mines de Saint-Étienne (EMSE), voici la configuration minimale recommandée pour votre ordinateur personnel :&#xA;Spécifications générales Processeur : Intel Core i5 ou équivalent, avec capacité de virtualisation activée. Mémoire RAM : 8 Go minimum (16 Go recommandés). Espace disque : Au moins 250 Go réservés pour les enseignements. Système d’exploitation : Windows 10/11, macOS (High Sierra ou supérieur), ou Linux. Écran : 13 pouces minimum. Connexion réseau : Wi-Fi et filaire recommandées. Prêt d’ordinateur portable par l’École Si vous ne disposez pas d’une configuration suffisante et que vos ressources financières ne vous permettent pas d’en acquérir une, vous avez la possibilité de demander à l’École la mise à disposition d’un ordinateur portable (PC/Windows) pour l’année scolaire. Cette demande doit être renouvelée chaque année.</description>
+    </item>
+  </channel>
+</rss>

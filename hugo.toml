@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
+
+[author]
+email = 'martin.freymuth@etu.emse.fr'
+name = 'Freymuth Martin'
+[params]
+disableLandingPageButton = true
+title = 'Installation guide'
+themeVariant = 'learn'
+
+[languages]
+[languages.en]
+languageCode = 'en'
+languageName = 'English'
+title = 'Installation guide'
+weight = 1
+[languages.en.params]
+linkTitle = 'Installation guide'
+
+[languages.fr]
+languageCode = 'fr'
+languageName = 'French'
+title = "Guide d'installation"
+weight = 2
+[languages.fr.params]
+linkTitle = "Guide d'installation"
+
+[module]
+[[module.imports]]
+path = 'github.com/McShelby/hugo-theme-relearn'
