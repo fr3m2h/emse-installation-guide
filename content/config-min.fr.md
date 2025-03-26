@@ -1,5 +1,6 @@
 +++
-title = "Configuration minimale"
+title = "⚙️ Configuration minimale"
+weight=2
 +++
 
 Pour utiliser efficacement l'ensemble des logiciels nécessaires durant votre cursus à l'École des Mines de Saint-Étienne (EMSE), voici la configuration minimale recommandée pour votre ordinateur personnel :

@@ -1,6 +1,7 @@
 +++
-title = "Introduction"
+title = "📃 Introduction"
 type = "home"
+weight=1
 +++
 
 Welcome to the official installation guide provided by the ROOTs of École des Mines de Saint-Étienne (EMSE).

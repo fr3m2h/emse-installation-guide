@@ -2,9 +2,14 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [author]
 email = 'martin.freymuth@etu.emse.fr'
 name = 'Freymuth Martin'
+
 [params]
 disableLandingPageButton = true
 title = 'Installation guide'

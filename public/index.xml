@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction :: Installation guide</title>
-    <link>http://localhost:1313/index.html</link>
-    <description>Welcome to the official installation guide provided by the ROOTs of École des Mines de Saint-Étienne (EMSE).&#xA;During your studies at EMSE, you will need to use various software tools for your courses and projects. This website will guide you step by step through the installation process of the required software on your personal computer, whether you use Windows, macOS, or Linux.&#xA;Installation Support Sessions Two installation support sessions are organized by the ROOTs in collaboration with the IT department (DSI) to help you if you encounter any difficulties:</description>
+    <title>Installation guide</title>
+    <link>https://example.org/index.html</link>
+    <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Minimum Configuration</title>
-      <link>http://localhost:1313/config_min/index.html</link>
+      <title>📃 Introduction</title>
+      <link>https://example.org/introduction/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/config_min/index.html</guid>
+      <guid>https://example.org/introduction/index.html</guid>
+      <description>Welcome to the official installation guide provided by the ROOTs of École des Mines de Saint-Étienne (EMSE).&#xA;During your studies at EMSE, you will need to use various software tools for your courses and projects. This website will guide you step by step through the installation process of the required software on your personal computer, whether you use Windows, macOS, or Linux.&#xA;Installation Support Sessions Two installation support sessions are organized by the ROOTs in collaboration with the IT department (DSI) to help you if you encounter any difficulties:</description>
+    </item>
+    <item>
+      <title>⚙️ Minimum Configuration</title>
+      <link>https://example.org/config-min/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/config-min/index.html</guid>
       <description>To effectively use all required software throughout your studies at École des Mines de Saint-Étienne (EMSE), here is the recommended minimum configuration for your personal computer:&#xA;General Specifications Processor: Intel Core i5 or equivalent, with virtualization capability enabled. RAM: 8 GB minimum (16 GB recommended). Disk Space: At least 250 GB reserved for academic purposes. Operating System: Windows 10/11, macOS (High Sierra or higher), or Linux. Screen: Minimum of 13 inches. Network Connection: Wi-Fi and wired connections recommended. Laptop Loan Provided by the School If you do not have the required configuration and your financial resources do not allow you to purchase one, you can request a loaned laptop (PC/Windows) from the school for the academic year. This request must be renewed annually.</description>
     </item>
   </channel>

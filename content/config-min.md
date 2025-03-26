@@ -1,5 +1,6 @@
 +++
-title = "Minimum Configuration"
+title = "⚙️ Minimum Configuration"
+weight=2
 +++
 
 To effectively use all required software throughout your studies at École des Mines de Saint-Étienne (EMSE), here is the recommended minimum configuration for your personal computer:
