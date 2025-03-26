@@ -1,7 +1,7 @@
 # Hugo-generated files
-/public/
-/resources/_gen/
-/assets/jsconfig.json
+./public/*
+./resources/_gen/*
+./assets/jsconfig.json
 hugo_stats.json
 
 # OS files
